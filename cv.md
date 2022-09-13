@@ -8,3 +8,4 @@
 ```
 6. https://github.com/andrew15021992/rsschool-cv/blob/gh-pages/cv.md
 ## 7. *In 2014 I graduated from the Belarusian State University of Transport and received a degree in materials processing technology.*
+## 8. A1.
